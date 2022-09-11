@@ -24,7 +24,9 @@ An important part of being a professor is teaching. Here I collect a list of fam
 
 ### Technicalities
 
-Junwei: I think cs231n has the cleanest model on how to make a good open-source course. They use a github repo to store all their course notes so that TAs and 
+Junwei: If you have a large course and want to take attendance record of students, you can set up after-class quizzes with this simple, mobile-friendly [webapp](https://github.com/JunweiLiang/Lecture_Attendance_Management)!  (which is previously used by [CMU LTI colloquium course](https://lti.cs.cmu.edu/lti-colloquium))
+
+Junwei: I think cs231n has the cleanest model on how to make a good open-source course. They use a github repo to store all their course notes so that TAs and
 even students can contribute to the notes and collaborate easily. The notes are in markdown format to ensure fast and easy change and Github will generate
 corresponding html automatically (using jekyll). The downside is that you could not test them locally without compiling (each markdown file may include jekyll-specific code like layout imports).
 So for not-so-rapidly-changing websites like personal page I would opt for static htmls which are easy to debug/refine locally.
