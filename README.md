@@ -11,21 +11,21 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
 ## Contents
 
-1. Computational Resources
-
-    In this list I have collected and compared major cloud GPU vendors and full machine cost in order to strategize best use of our fund. This should be updated on a year-to-year basis as GPU prices are volatile.
-    
-    这里列出了国内云GPU计算资源的价格以及整机购买的一些对比。
-    
-    See [computing.md](./computing.md).
-
-2. Funding / Grant Resources 
+1. Funding / Grant Resources
 
     In this list I am looking at funding/grant from both the government and companies, as well as fellowships/scholarships available for PhD students.
-    
+
     这里列出了国内外教授可申请的政府/公司资金，以及博士生奖学金。
-    
+
     See [funding.md](./funding.md).
+
+2. Computational Resources
+
+    In this list I have collected and compared major cloud GPU vendors and full machine cost in order to strategize best use of our fund. This should be updated on a year-to-year basis as GPU prices are volatile.
+
+    这里列出了国内云GPU计算资源的价格以及整机购买的一些对比。
+
+    See [computing.md](./computing.md).
 
 3. Workshops and Competitions (for both TTAPs and PhD students)
 
