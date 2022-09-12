@@ -19,7 +19,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [funding.md](./funding.md).
 
-2. Social Media / Academic Profiles
+2. Social Media / Academic Profiles (for both TTAPs and PhD students)
 
     It's important to have a platform to promote and discuss one's work other than at top conferences. In this list I aim to collect all kinds of social media sites where we could build our academic profiles.
 
@@ -71,7 +71,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     See [webpage.md](./webpage.md).
 
     
-8. Awesome Courses
+8. Awesome Courses (for both TTAPs and PhD students)
 
     An important part of being a professor is teaching. Here I collect a list of famous courses and share some personal thoughts on how they are technically managed.
     
