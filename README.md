@@ -19,7 +19,17 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [funding.md](./funding.md).
 
-2. Computational Resources
+2. Social Media / Academic Profiles
+
+    It's important to have a platform to promote and discuss one's work other than at top conferences. In this list I aim to collect all kinds of social media sites where we could build our academic profiles.
+
+    宣传、展示、讨论自己的工作非常重要。这里列出国内外的社交媒体网站，包括个人可以建立档案、发表文章进行自我宣传的，还有知名自媒体可以投稿的、关注的。
+
+    See [social.md](./social.md).
+
+
+
+3. Computational Resources
 
     In this list I have collected and compared major cloud GPU vendors and full machine cost in order to strategize best use of our fund. This should be updated on a year-to-year basis as GPU prices are volatile.
 
@@ -27,7 +37,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [computing.md](./computing.md).
 
-3. Workshops and Competitions (for both TTAPs and PhD students)
+4. Workshops and Competitions (for both TTAPs and PhD students)
 
     In this list, I aim to list relevant workshops and competitions (as these would be an efficient way to boost name recognition for the lab and TTAPs, aside from publishing at top conferences) in my field. Feel free to add more areas by submitting a pull request.
     
@@ -35,7 +45,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [competitions.md](./competitions.md).
 
-4. How to Run A Lab / Recruit Candidates
+5. How to Run A Lab / Recruit Candidates
 
     In this list, I try to gather useful recruitment info from top labs and bits and pieces on how they are managed. Some important questions for young TTAPs include whether and how to have weekly meetings, reports, etc.
     
@@ -44,7 +54,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     See [managing.md](./managing.md).
     
 
-5. General Advice from Others (for both TTAPs and PhD students)
+6. General Advice from Others (for both TTAPs and PhD students)
 
     This lists useful advice from other senior professors/researchers.
     
@@ -52,15 +62,16 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [advice.md](./advice.md).
 
-6. Awesome Academic Pages (for both TTAPs and PhD students)
+7. Awesome Academic Pages (for both TTAPs and PhD students)
 
     I believe in openness and transparency. I think an informative academic page is important for both TTAPs and PhD students. A well-organized lab web page could lead to more collaboration. In this list I gather some of the best pages IMO.
     
     这里收集一些我个人觉得比较好的学术主页。
     
     See [webpage.md](./webpage.md).
+
     
-7. Awesome Courses
+8. Awesome Courses
 
     An important part of being a professor is teaching. Here I collect a list of famous courses and share some personal thoughts on how they are technically managed.
     
