@@ -18,8 +18,9 @@ Aside from looking at papers already published at top conferences, we could foll
 | Andrej Karpathy                 | Twitter                          | [Link](https://twitter.com/karpathy)                             |
 | Andrej Karpathy                 | Youtube                          | [Link](https://www.youtube.com/c/AndrejKarpathy)                             |
 | Yann LeCun                      | Twitter                          | [Link](https://twitter.com/ylecun)                               |
+| PaperWithCode                      | Twitter                          | [Link](https://twitter.com/paperswithcode)     |
+| PaperWithDatasets                      | Twitter                          | [Link](https://twitter.com/paperswithdata)     |
 | Google AI Blog | Blog                    | [Link](https://ai.googleblog.com/)                              |
-| Andrej Karpathy                 | Twitter                          | [Link](https://twitter.com/karpathy)                             |
 | 机器之心                        | 微信公众号/知乎                  |                                                          |
 | 量子位                          | 微信公众号/知乎                  |                                                          |
 | VALSE                           | 微信公众号                       | [Link](http://valser.org/)                                       |
