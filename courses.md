@@ -21,6 +21,8 @@ An important part of being a professor is teaching. Here I collect a list of fam
 | computer vision advanced (cs231a)                 |                 | Stanford | Course page            | [link](https://web.stanford.edu/class/cs231a/)                                            |
 | Deep Learning Systems                             | Tianqi Chen     | CMU      | Course page            | [link](https://dlsyscourse.org/)                                                          |
 | Story behind ResNet/ShuffleNet               | Xiangyu Zhang   | By [GAP Lab](https://gaplab.cuhk.edu.cn/)    | Lecture video           | [link](https://mp.weixin.qq.com/s?__biz=Mzg5NTc2MTA0NQ==&mid=2247487252&idx=1&sn=fd73ce6c0f0a7726eb9913fa9c7a41c0&chksm=c00a20eef77da9f8f72b020896b73238b817a329c6115bec3f942a3a4ff7600097e42af952ff&mpshare=1&scene=1&srcid=0901smoTXRMt3ddCcY0XwGNK&sharer_sharetime=1662005458842&sharer_shareid=c5b6fadc801a2c4ecd6ca0096153aea4&version=4.0.9.99149&platform=mac#rd)                                                          |
+| Large-Scale Multimedia Analysis (11-775) |Alex Hauptmann  |CMU| Course page |[link](https://github.com/11775website/11775website.github.io)|
+| Large-Scale Multimedia Analysis (11-775) |Alex Hauptmann |CMU| Homework Code|[link](https://github.com/11775website/11775-hws/tree/master/spring2021/hw1#submission-to-kaggle)|
 
 ### Technicalities
 
@@ -31,3 +33,7 @@ even students can contribute to the notes and collaborate easily. The notes are 
 corresponding html automatically (using jekyll). The downside is that you could not test them locally without compiling (each markdown file may include jekyll-specific code like layout imports).
 So for not-so-rapidly-changing websites like personal page I would opt for static htmls which are easy to debug/refine locally.
 But for course notes since people don't care how nice they looks so markdown is the way to go.
+
+Junwei: When I was setting up homeworks for CMU 11-775 course, we found that having a leaderboard can motivate students to try out different ideas. And Kaggle is a free website where this can be done easily. Here is an example of [our homework](https://github.com/11775website/11775-hws/tree/master/spring2021/hw1) and [kaggle page](https://www.kaggle.com/competitions/11775-hw1/leaderboard).
+
+
