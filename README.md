@@ -21,9 +21,9 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
 2. Social Media / Academic Profiles (for both TTAPs and PhD students)
 
-    It's important to have a platform to promote and discuss one's work other than at top conferences. In this list I aim to collect all kinds of social media sites where we could build our academic profiles.
+    We may need some kind of paper filtering as there are too many papers published everyday. Also, it's important to have a platform to promote and discuss one's work other than at top conferences. In this list I aim to collect all kinds of social media sites where we could build our academic profiles.
 
-    宣传、展示、讨论自己的工作非常重要。这里列出国内外的社交媒体网站，包括个人可以建立档案、发表文章进行自我宣传的，还有知名自媒体可以投稿的、关注的。
+    这里会列出一些我认为不错的会推荐研究工作的公众号和自媒体。然后作为学生或者老师，宣传、展示、讨论自己的工作都非常重要。这里列出国内外的社交媒体网站，包括个人可以建立档案、发表文章进行自我宣传的，还有知名自媒体可以投稿的、关注的。
 
     See [social.md](./social.md).
 
