@@ -9,6 +9,8 @@
 Since there are too many papers published everyday, we may need some prelimnary paper filtering before actually reading them.
 Aside from looking at papers already published at top conferences, we could follow some social media sites that I think are providing good recommendations.
 
+这里列一些值得关注的公众号或者社交媒体，上面推荐的文章基本都值得一读。
+
 | Name                            | 类型                             | Link                                                     |
 |---------------------------------|----------------------------------|----------------------------------------------------------|
 | Two Minute Papers               | Youtube                          | [Link](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) |
@@ -34,6 +36,8 @@ Aside from looking at papers already published at top conferences, we could foll
 It's important to have a platform to promote and discuss one's work other than at top conferences. In this list I aim to collect all kinds of social media sites where we could build our academic profiles.
 
 Junwei: Having 1-3 profiles would be enough. I have way too many.
+
+建立学术档案/自媒体账号，方便推荐、讨论自己的研究工作。
 
 | Name               | Type                               | Sample Link                                                        |
 |--------------------|------------------------------------|---------------------------------------------------------------------|
