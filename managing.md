@@ -15,3 +15,4 @@ In this list, I try to gather useful recruitment info from top labs and bits and
 |Stanford	|Diyi Yang 	|recruitment requirement (招生要求)	|[link](https://cs.stanford.edu/~diyiy/getinvolved.html)|
 |CMU	|Shubham Tulsiani	|recruitment requirement (招生要求)	|[link](https://shubhtuls.github.io/)|
 |Brown U	| Chen Sun	|recruitment requirement (招生要求)	|[link](https://chensun.me/application.html)|
+|HKUST (GZ)	| Junwei Liang	|recruitment requirement (招生要求)	|[link](https://junweiliang.me/letter.html)|
