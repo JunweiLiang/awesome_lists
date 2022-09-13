@@ -21,6 +21,7 @@ Aside from looking at papers already published at top conferences, we could foll
 | PaperWithCode                      | Twitter                          | [Link](https://twitter.com/paperswithcode)     |
 | PaperWithDatasets                      | Twitter                          | [Link](https://twitter.com/paperswithdata)     |
 | Google AI Blog | Blog                    | [Link](https://ai.googleblog.com/)                              |
+|Awesome lists (of various research directions) on Github. They are usually more recent than survey papers at top journals.||
 | 机器之心                        | 微信公众号/知乎                  |                                                          |
 | 量子位                          | 微信公众号/知乎                  |                                                          |
 | VALSE                           | 微信公众号                       | [Link](http://valser.org/)                                       |
