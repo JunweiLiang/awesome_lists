@@ -21,7 +21,7 @@ Aside from looking at papers already published at top conferences, we could foll
 | PaperWithCode                      | Twitter                          | [Link](https://twitter.com/paperswithcode)     |
 | PaperWithDatasets                      | Twitter                          | [Link](https://twitter.com/paperswithdata)     |
 | Google AI Blog | Blog                    | [Link](https://ai.googleblog.com/)                              |
-|Awesome lists (of various research directions) on Github. They are usually more recent than survey papers at top journals.||
+| Awesome lists (of various research directions) on Github. They are usually more recent than survey papers at top journals.||
 | 机器之心                        | 微信公众号/知乎                  |                                                          |
 | 量子位                          | 微信公众号/知乎                  |                                                          |
 | VALSE                           | 微信公众号                       | [Link](http://valser.org/)                                       |
@@ -54,6 +54,7 @@ Junwei: Having 1-3 profiles would be enough. I have way too many.
 | kaggle             | profile                            | [Junwei's](https://www.kaggle.com/junweiliang1114)                              |
 | AI Crowd           | profile                            | [Junwei's](https://www.aicrowd.com/participants/junwei_liang)                   |
 | IEEE Xplore Author | profile (cannot change)            | [Junwei's](https://ieeexplore.ieee.org/author/37086035452)                      |
+| DBLP | profile (cannot change)            | [Junwei's](https://dblp.org/pid/62/10704-1.html)                      |
 | 小红书             | profile/publish                    | [Junwei's](https://www.xiaohongshu.com/user/profile/62c3a783000000001b02b099)   |
 | bilibili           | profile/publish                    | [Junwei's](https://space.bilibili.com/1746376957)                               |
 | Youtube            | profile/publish                    | [Junwei's](https://www.youtube.com/channel/UC-z7ZWp8Rbu2xhxnbAL_bRQ)            |
