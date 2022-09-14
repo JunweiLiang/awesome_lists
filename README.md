@@ -27,8 +27,6 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [social.md](./social.md).
 
-
-
 3. Computational Resources
 
     In this list I have collected and compared major cloud GPU vendors and full machine cost in order to strategize best use of our fund. This should be updated on a year-to-year basis as GPU prices are volatile.
