@@ -53,3 +53,4 @@
 | MIT EECS Rising Stars                                          |      |      |
 | A list by Deborah                                          |      |   [link](https://github.com/dhanus/graduate-fellowships)   |
 | Siebel Scholars                                          |  $35k for final year students, from US, China, Japan, etc.    |   [link](https://www.siebelscholars.com/)   |
+| AAAI/ACM SIGAI DOCTORAL DISSERTATION AWARD | Just a title (but a prestigious one) | [link](https://aaai.org/Awards/dissertation-award.php)|
