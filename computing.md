@@ -9,7 +9,7 @@
 
 Vendors in mainland, China (Updated 07/2022):
 
-|          | 机器          | 时长           | 价格           | Note                                           |
+|          | Machine          | Duration           | Price (RMB)         | Note                        |
 |----------|---------------|----------------|----------------|------------------------------------------------|
 | 阿里     | 8xV100 (16GB) | 一年           | 80万           | 只有CentOS                                     |
 |          |               | 一个月         | 7.1万          |                                                |
@@ -17,12 +17,12 @@ Vendors in mainland, China (Updated 07/2022):
 | 华为云   | 8xV100 (32GB) | 一年           | 63万           |                                                |
 |          |               | 一个月         | 6.3万          |                                                |
 |          |               | 一小时         |          131.5 |                                                |
-| 腾讯云   | 8xV100 (32GB) | 一年           | 45.8万(8.3折)  |                                                |
+| 腾讯云   | 8xV100 (32GB) | 一年           | 45.8万(8.3折)  |  [link](https://cloud.tencent.com/document/product/560/8025) |
 |          |               | 一个月         | 4.6万          |                                                |
 |          |               | 一小时 (TIONE) |            147 |                                                |
 |          | 8xA100 (40GB) | 一年           | 113.5万(8.3折) |                                                |
 |          |               | 一个月         | 11.4万         |                                                |
-| 百度云   | 8xA100 (40GB) | 一年           | 99.7万(8.3折)  | https://cloud.baidu.com/product-price/gpu.html |
+| 百度云   | 8xA100 (40GB) | 一年           | 99.7万(8.3折)  | [link](https://cloud.baidu.com/product-price/gpu.html) |
 |          |               | 一个月         | 10万           |                                                |
 |          | 8xV100 (32GB) | 一年           | 59.3万         |                                                |
 |          |               | 一个月         | 5.9万          |                                                |
@@ -42,27 +42,27 @@ Vendors in mainland, China (Updated 07/2022):
 
 |               | 机器   |            |
 |---------------|--------|------------|
-| dbcloud深脑云 | 8x3090 | 20万左右起 |
+| dbcloud深脑云 (淘宝) | 8x3090 | 20万左右起 |
 |程明明教授的经验|8xV100| [link](https://mmcheng.net/dlm/)|
 
 **Junwei: 近期(09/2022)GPU价格大跌，明显是整机购买比较划算，而3090的算力相当于V100，是性价比最高的卡，所以我认为多个8x3090整机+网络硬盘NAS+kubeflow是最划算、scalable的设置，可以参考一下[后面](#learning-stuff)如何自建计算集群。**
 
 Vendors in NA (Updated 07/2022):
 
-|                          | 机器             | 时长            | 价格        |
+|                          | Machine             | Duration            | Price        |
 |--------------------------|------------------|-----------------|-------------|
-| Google Cloud asia-Taiwan | 8xV100 (32GB)    | 一个月          | $12,837.30  |
-|                          |                  | 一小时          |        $17  |
-| Google Cloud asia-Tokyo  | 8xA100 (40GB)    | 一个月          | $18,216.98  |
-| vast.ai NA               | 8xV100 (16GB)    | 一小时          |      $2.80  |
-|                          | 8xA100 (40GB)    | 一小时          |      $8.80  |
-|                          | 8xA6000 (48GB)   | 一小时          |      $4.40  |
-|                          | 10x1080Ti (11GB) | 一小时          |         $2  |
-|                          | 8xA5000 (24GB)   | 一小时          |      $2.40  |
-|                          | 4x3090 (24GB)    | 一小时          |      $1.20  |
-| lambda NA                | 8xV100 (16GB)    | 一小时          |      $4.40  |
-|                          | 8xV100 (16GB)    | 一小时 (>3个月) |      $3.20  |
-|                          | 8xA100 (40GB)    | 一小时 (>3个月) |      $8.00  |
+| Google Cloud asia-Taiwan | 8xV100 (32GB)    | 1 month          | $12,837.30  |
+|                          |                  | 1 hour          |        $17  |
+| Google Cloud asia-Tokyo  | 8xA100 (40GB)    | 1 month          | $18,216.98  |
+| vast.ai NA               | 8xV100 (16GB)    | 1 hour          |      $2.80  |
+|                          | 8xA100 (40GB)    | 1 hour         |      $8.80  |
+|                          | 8xA6000 (48GB)   | 1 hour         |      $4.40  |
+|                          | 10x1080Ti (11GB) | 1 hour         |         $2  |
+|                          | 8xA5000 (24GB)   | 1 hour          |      $2.40  |
+|                          | 4x3090 (24GB)    | 1 hour          |      $1.20  |
+| lambda NA                | 8xV100 (16GB)    | 1 hour         |      $4.40  |
+|                          | 8xV100 (16GB)    | 1 hour (>3 months) |      $3.20  |
+|                          | 8xA100 (40GB)    | 1 hour (>3 months) |      $8.00  |
 
 ## Free Stuff
 
