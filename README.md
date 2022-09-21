@@ -43,6 +43,8 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [competitions.md](./competitions.md).
 
+    How to propose and host a workshop? To be added.
+
 5. How to Run A Lab / Recruit Candidates
 
     In this list, I try to gather useful recruitment info from top labs and bits and pieces on how they are managed. Some important questions for young TTAPs include whether and how to have weekly meetings, reports, etc.
