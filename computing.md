@@ -89,4 +89,5 @@ Vendors in NA (Updated 07/2022):
 | A discussion on 1xA100 vs 6x3090 知乎   | [link](https://www.zhihu.com/question/551536415/answer/2657911978)       |
 |程明明教授的GPU集群经验|[link](https://mmcheng.net/servers/)|
 |Good cluster building guide from Lambda| [link](https://www.youtube.com/watch?v=rfu5FwncZ6s)|
+|How to decide on cloud GPUs vs. on-perm vs. hybrid| [link](https://www.youtube.com/watch?v=3EnIW0EZkr4)|
 
