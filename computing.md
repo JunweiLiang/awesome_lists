@@ -63,6 +63,7 @@ Vendors in NA (Updated 07/2022):
 | lambda NA                | 8xV100 (16GB)    | 1 hour         |      $4.40  |
 |                          | 8xV100 (16GB)    | 1 hour (>3 months) |      $3.20  |
 |                          | 8xA100 (40GB)    | 1 hour (>3 months) |      $8.00  |
+|                          | 1xA100 (40GB)    | 1 hour |      $1.10 [link](https://www.youtube.com/watch?v=tWVq4GxSCps)  |
 
 ## Free Stuff
 
