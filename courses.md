@@ -23,6 +23,7 @@ An important part of being a professor is teaching. Here I collect a list of fam
 | Story behind ResNet/ShuffleNet               | Xiangyu Zhang   | By [GAP Lab](https://gaplab.cuhk.edu.cn/)    | Lecture video           | [link](https://mp.weixin.qq.com/s?__biz=Mzg5NTc2MTA0NQ==&mid=2247487252&idx=1&sn=fd73ce6c0f0a7726eb9913fa9c7a41c0&chksm=c00a20eef77da9f8f72b020896b73238b817a329c6115bec3f942a3a4ff7600097e42af952ff&mpshare=1&scene=1&srcid=0901smoTXRMt3ddCcY0XwGNK&sharer_sharetime=1662005458842&sharer_shareid=c5b6fadc801a2c4ecd6ca0096153aea4&version=4.0.9.99149&platform=mac#rd)                                                          |
 | Large-Scale Multimedia Analysis (11-775) |Alex Hauptmann  |CMU| Course page |[link](https://github.com/11775website/11775website.github.io)|
 | Large-Scale Multimedia Analysis (11-775) |Alex Hauptmann |CMU| Homework Code|[link](https://github.com/11775website/11775-hws/tree/master/spring2021/hw1#submission-to-kaggle)|
+| Intro to Transformers | Lucas Beyer | Google | slides | [link](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit)|
 
 ### Technicalities
 
