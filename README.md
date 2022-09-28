@@ -35,7 +35,20 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [computing.md](./computing.md).
 
-4. Workshops and Competitions (for both TTAPs and PhD students)
+
+4. Conferences
+
+    In this list, yearly timelines for paper submissions and workshop/tutorial proposals are collected so we could
+    better plan out our work schedule.
+
+    这里列出每年各个顶会的时间线，方便做好工作计划。
+
+    See [conferences.md](./conferences.md).
+
+    <img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img>
+
+
+5. Workshops and Competitions (for both TTAPs and PhD students)
 
     In this list, I aim to list relevant workshops and competitions (as these would be an efficient way to boost name recognition for the lab and TTAPs, aside from publishing at top conferences) in my field. Feel free to add more areas by submitting a pull request.
     
@@ -45,7 +58,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     How to propose and host a workshop? To be added.
 
-5. How to Run A Lab / Recruit Candidates
+6. How to Run A Lab / Recruit Candidates
 
     In this list, I try to gather useful recruitment info from top labs and bits and pieces on how they are managed. Some important questions for young TTAPs include whether and how to have weekly meetings, reports, etc.
     
@@ -54,7 +67,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     See [managing.md](./managing.md).
     
 
-6. General Advice from Others (for both TTAPs and PhD students)
+7. General Advice from Others (for both TTAPs and PhD students)
 
     This lists useful advice from other senior professors/researchers.
     
@@ -62,7 +75,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [advice.md](./advice.md).
 
-7. Awesome Academic Pages (for both TTAPs and PhD students)
+8. Awesome Academic Pages (for both TTAPs and PhD students)
 
     I believe in openness and transparency. I think an informative academic page is important for both TTAPs and PhD students. A well-organized lab web page could lead to more collaboration. In this list I gather some of the best pages IMO.
     
@@ -71,7 +84,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     See [webpage.md](./webpage.md).
 
     
-8. Awesome Courses (for both TTAPs and PhD students)
+9. Awesome Courses (for both TTAPs and PhD students)
 
     An important part of being a professor is teaching. Here I collect a list of famous courses and share some personal thoughts on how they are technically managed.
     
