@@ -20,4 +20,5 @@ I believe in openness and transparency. I think an informative academic page is 
 | HKU                             | SAIL lab         | lab            | [link](https://www.eee.hku.hk/~sail/#about)   |
 | CMU                             | Jason Zhang      | single project | [link](https://jasonyzhang.com/relpose/)      |
 | HKUST-GZ                        | Junwei Liang     | personal       | [link](https://junweiliang.me/)               |
-| NVIDIA/CMU                        | Xinshuo Weng     | personal       | [link](https://xinshuoweng.com/)               |
+| NVIDIA/CMU                        | Xinshuo Weng     | personal       | [link](https://xinshuoweng.com/)            |
+|Github| Many | Github README awesome list|[link](https://zzetao.github.io/awesome-github-profile/)|
