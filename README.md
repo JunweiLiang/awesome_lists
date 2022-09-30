@@ -91,3 +91,11 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     优秀、开放的课程列表。
     
     See [courses.md](./courses.md).
+
+10. Tricks and hacks
+
+    Tricks and hacks that I think would be useful.
+
+    + [Technical notes on making websites for personal/projects/courses](https://github.com/JunweiLiang/junweiliang.github.io/blob/master/note.md).
+
+    + [How to make home machines SSH-able from anywhere](./junwei_notes/server_ssh_anywhere.md).
