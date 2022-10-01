@@ -1,6 +1,7 @@
 # coding=utf-8
 # author: Junwei Liang
 # for: setting up a SSH tunnel between this machine and a gateway machine
+# assumption: SSH pub key already set up for this machine and the gateway machine (and vice versa)
 
 # sample usage: $ python start_tunnel.py 666.666.666.666 --server_port 21222 --retry_limit 500 --wait_secs 600
 
