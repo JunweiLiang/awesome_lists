@@ -92,9 +92,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [courses.md](./courses.md).
 
-10. Tricks and hacks
-
-    Tricks and hacks that I think would be useful.
+10. Tricks and hacks that I think would be useful.
 
     + [Technical notes on making websites for personal/projects/courses](https://github.com/JunweiLiang/junweiliang.github.io/blob/master/note.md).
 
