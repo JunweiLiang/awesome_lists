@@ -53,12 +53,16 @@ To sum up,
 Install SSH server on your middle-man/cloud machine and your home machines. Duh.
 Put your remote laptop and your home machines' SSH public key on the cloud machine's authorized_keys
 (so you won't need to enter two passwords each time you try to connect your home machine with your remote laptop).
-Put your cloud machine's SSH public key to your home machines' authorized_keys. **Set your cloud machine's SSH server to allow GatewayPorts by modifying the sshd_config.**
+Put your cloud machine's SSH public key to your home machines' authorized_keys. **Set your cloud machine's SSH server to allow GatewayPorts by modifying the sshd_config.** (at `/etc/ssh/sshd_config`)
 See [here](https://www.tecmint.com/create-ssh-tunneling-port-forwarding-in-linux/).
 
 + Step 2,
 On each of your home machines, run [this script](./start_tunnel.py) in the background.
 This script is a result of a lot of Googling and it basically helps you keep the SSH tunnel alive.
+Example:
+```
+$ python start_tunnel.py 666.666.666.666 --retry_limit 500 --wait_secs 800 --server_port 21222
+```
 
 + Step 3,
 Suppose you put a home machine to port 21222 of the cloud machine for the tunnel.

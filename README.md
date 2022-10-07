@@ -99,3 +99,5 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     + [Technical notes on making websites for personal/projects/courses](https://github.com/JunweiLiang/junweiliang.github.io/blob/master/note.md).
 
     + [How to make home machines SSH-able from anywhere](./junwei_notes/server_ssh_anywhere.md).
+
+    + [How To Make Web-Accessible Demos For Your AI Research/Applications](./junwei_notes/web_app_tech_notes.md).
