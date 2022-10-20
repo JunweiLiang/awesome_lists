@@ -18,6 +18,8 @@
 | qualcomm                                                    | [link](https://www.qualcomm.com/research/university-relations)                                                                                                                                                                                                                                                                                                            | The world?     |                                                            |
 | Microsoft                                                   | [link](https://www.microsoft.com/en-us/research/academic-program/microsoft-productivity-research/)                                                                                                                                                                                                                                                                        | The world      |                                                            |
 | 中国科协青年人才托举工程                                    |           [link](https://www.cast.org.cn/art/2022/6/28/art_457_190436.html) |  国内           |           2022年的申请要求32岁以下                                                 |
+|广州科协人才托举|[link](https://mp.weixin.qq.com/s/Aol7WcYDfuoq1I8c2Am-Ag)|广州市高校推荐|35岁以下, 10万经费|
+|CCF青年人才托举工程|[link](https://mp.weixin.qq.com/s/eHsDN7kmIQ9TCH1ISC5zOg)|国内|32岁以下，需要推荐人|
 | 微软亚洲研究院铸星计划                                      | [link](https://www.msra.cn/zh-cn/connections/academic-programs/startrack)                                                                                                                                                                                                                                                                                                | 国内           |                                                            |
 | CCF-百度松果基金                                            |     [link](https://www.ccf.org.cn/Focus/2022-04-29/761542.shtml) | 国内           |                要求40岁以下                                   |
 | CCF-阿里巴巴创新研究计划                                    |    [link](https://www.ccf.org.cn/Focus/2022-05-11/761872.shtml)     | 国内           |              2022年有设定好的13个方向的项目基金  |
@@ -34,6 +36,7 @@
 | TR35, MIT 35 under 35 Asia                                        |                 [link](http://tr35.mittrasia.com/#criteria) | 亚洲地区    |     这个title很厉害，没有奖金                         |
 | AAAI New Faculty Highlight                                       |                 [link](https://aaai.org/Conferences/AAAI-21/aaai-new-faculty-highlights-program/) | The world	    |     只是个 title               |
 | Sloan Research Fellowship                                       |                 [link](https://sloan.org/fellowships) | US + Canada	    |     $75k, for tenure-track AP |
+
 
 ## PhD Fellowships
 
