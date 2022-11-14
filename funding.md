@@ -39,7 +39,8 @@
 
 
 Timeline:
-<img style="width: 500px" src="./pics/funding_timeline_cv_ai.jpg"></img>
+
+<img style="width: 100%" src="./pics/funding_timeline_cv_ai.jpg"></img>
 
 
 ## PhD Fellowships
