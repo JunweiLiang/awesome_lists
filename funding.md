@@ -36,6 +36,7 @@
 | TR35, MIT 35 under 35 Asia                                        |                 [link](http://tr35.mittrasia.com/#criteria) | 亚洲地区    |     这个title很厉害，没有奖金                         |
 | AAAI New Faculty Highlight                                       |                 [link](https://aaai.org/Conferences/AAAI-21/aaai-new-faculty-highlights-program/) | The world	    |     只是个 title               |
 | Sloan Research Fellowship                                       |                 [link](https://sloan.org/fellowships) | US + Canada	    |     $75k, for tenure-track AP, need department head's nomination |
+| Sony Faculty Research Award|[link](https://www.sony.com/en/SonyInfo/research-award-program)| US + 19 countries, no China|$100k/$150k, yearly application DDL: Sep 15|
 
 
 Timeline:
