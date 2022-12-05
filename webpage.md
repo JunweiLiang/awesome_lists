@@ -22,3 +22,4 @@ I believe in openness and transparency. I think an informative academic page is 
 | HKUST-GZ                        | Junwei Liang     | personal       | [link](https://junweiliang.me/)               |
 | NVIDIA/CMU                        | Xinshuo Weng     | personal       | [link](https://xinshuoweng.com/)            |
 |Github| Many | Github README awesome list|[link](https://zzetao.github.io/awesome-github-profile/)|
+| CMU                             | Henny Admoni           | personal       | [link](http://hennyadmoni.com/)           |
