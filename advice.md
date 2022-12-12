@@ -16,3 +16,4 @@ This lists useful advice from other senior professors/researchers.
 |Yi Ma, Jirong Wen, Yu Wang| AP/PhD student/Researchers|[如何走好在学术界的发展之路？如何选择科研方向并做出有价值的研究？](https://mp.weixin.qq.com/s/wSbITWQqo_fusAdRGdZxvQ)|
 |CVer|PhD student|[如何在4-6个月产出一篇论文？](https://mp.weixin.qq.com/s/cJvVyuGDn_rGpNqC7btbLQ)|
 |Henny Admoni| AP|["Working with me/Notes for perspective students"](http://hennyadmoni.com/working-with-me/)|
+|Jingdong Wang, Lingxi Xie|Researchers|[讲座回顾 | PaSS第五期-王井东博士，谢凌曦博士-CV顶会背后那些事](https://mp.weixin.qq.com/s/S0zvkB97zFreuYqaaQrQyw)|
