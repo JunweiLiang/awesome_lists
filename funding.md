@@ -63,3 +63,4 @@ Timeline:
 | Siebel Scholars                                          |  $35k for final year students, from US, China, Japan, etc.    |   [link](https://www.siebelscholars.com/)   |
 | AAAI/ACM SIGAI DOCTORAL DISSERTATION AWARD | Just a title (but a prestigious one) | [link](https://aaai.org/Awards/dissertation-award.php)|
 | 商汤奖学金 | **本科生**30名，2万RMB|[介绍](https://mp.weixin.qq.com/s?__biz=MzU2Nzg2NDc4Ng==&mid=2247535807&idx=1&sn=758bc45ea586a58def682ac3548ad0f0&chksm=fc94b002cbe3391455fd241fc0d3f068e7509114e02263f886b797774d396367fb35fedcfec5&scene=21#wechat_redirect) [主页](https://www.sensetime.com/cn/scholarship)|
+| Apple PhD  Fellowship||[link](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml)|
