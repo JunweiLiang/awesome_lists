@@ -37,7 +37,7 @@
 | AAAI New Faculty Highlight                                       |                 [link](https://aaai.org/Conferences/AAAI-21/aaai-new-faculty-highlights-program/) | The world	    |     只是个 title               |
 | Sloan Research Fellowship                                       |                 [link](https://sloan.org/fellowships) | US + Canada	    |     $75k, for tenure-track AP, need department head's nomination |
 | Sony Faculty Research Award|[link](https://www.sony.com/en/SonyInfo/research-award-program)| US + 19 countries, no China|$100k/$150k, yearly application DDL: Sep 15|
-
+| Amazon Research Award (ARA) |[link](https://www.amazon.science/research-awards/call-for-proposals)|The world| Each season may have a CFP. Budget supports one or two grad students for a year.|
 
 Timeline:
 
