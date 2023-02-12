@@ -38,6 +38,7 @@
 | Sloan Research Fellowship                                       |                 [link](https://sloan.org/fellowships) | US + Canada	    |     $75k, for tenure-track AP, need department head's nomination |
 | Sony Faculty Research Award|[link](https://www.sony.com/en/SonyInfo/research-award-program)| US + 19 countries, no China|$100k/$150k, yearly application DDL: Sep 15|
 | Amazon Research Award (ARA) |[link](https://www.amazon.science/research-awards/call-for-proposals)|The world| Each season may have a CFP. Budget supports one or two grad students for a year.|
+|腾讯AI Lab犀牛鸟专项研究计划|[link](https://m.withzz.com/project?id=1313)|国内/海外|20-40万元/4-6万美元|
 
 Timeline:
 
