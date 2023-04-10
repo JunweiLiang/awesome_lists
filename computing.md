@@ -36,6 +36,8 @@ Vendors in mainland, China (Updated 07/2022):
 |          |               | 一小时         |             48 |                                                |
 | 极链AI云 |               |                |                |                                                |
 | 恒源云   |               |                |                |                                                |
+| AutoDL   |               |                |                |                          [link](https://www.autodl.com/) , Most Popular                      |
+| OpenBayes |               |               |                 |                 [link](https://openbayes.com/)         |
 
 
 整机购买 (08/2022咨询)
