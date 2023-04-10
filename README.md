@@ -1,4 +1,6 @@
-# Awesome Lists for Tenure-Track Asst. Professors and PhD students [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JunweiLiang.awesome_lists)
+# Awesome Lists for Tenure-Track Asst. Professors and PhD students 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JunweiLiang.awesome_lists)
 
 ## Introduction
 
@@ -45,8 +47,10 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [conferences.md](./conferences.md).
 
-    <img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img>
+    <center><img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img></center>
 
+    <center><img style="width: 500px" src="./pics/qsch.png"></img></center>
+> Exchange of Top Conference and Top Journal：微信小程序-轻松参会
 
 5. Workshops and Competitions (for both TTAPs and PhD students)
 
@@ -99,3 +103,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     + [How to make home machines SSH-able from anywhere](./junwei_notes/server_ssh_anywhere.md).
 
     + [How To Make Web-Accessible Demos For Your AI Research/Applications](./junwei_notes/web_app_tech_notes.md).
+
+## Stargazers
+	
+[![Stargazers over time](https://starchart.cc/JunweiLiang/awesome_lists.svg)](https://starchart.cc/JunweiLiang/awesome_lists)
