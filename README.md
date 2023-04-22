@@ -1,4 +1,6 @@
-# Awesome Lists for Tenure-Track Asst. Professors and PhD students [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JunweiLiang.awesome_lists)
+# Awesome Lists for Tenure-Track Asst. Professors and PhD students 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JunweiLiang.awesome_lists)
 
 ## Introduction
 
@@ -45,8 +47,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [conferences.md](./conferences.md).
 
-    <img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img>
-
+    <center><img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img></center>
 
 5. Workshops and Competitions (for both TTAPs and PhD students)
 

@@ -11,8 +11,8 @@ Aside from looking at papers already published at top conferences, we could foll
 
 这里列一些值得关注的公众号或者社交媒体，上面推荐的文章基本都值得一读。
 
-| Name                            | 类型                             | Link                                                     |
-|---------------------------------|----------------------------------|----------------------------------------------------------|
+| Name                            | 类型                             | Link                                                     | Note |
+|---------------------------------|----------------------------------|----------------------------------------------------------|----------------------------------------------------------|
 | Two Minute Papers               | Youtube                          | [Link](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) |
 | Two Minute Papers               | Twitter                          | [Link](https://twitter.com/twominutepapers) |
 | Andrej Karpathy                 | Twitter                          | [Link](https://twitter.com/karpathy)                             |
@@ -31,7 +31,16 @@ Aside from looking at papers already published at top conferences, we could foll
 | CCF视觉专委会                   | 微信公众号                       |                                                          |
 | CVer                            | 微信公众号/知乎                  |                                                          |
 | 微软研究院AI头条                | 微信公众号                       |                                                          |
-
+| ChallengeHub               | 微信公众号                      |                                                          | 中国区全球赛事Top选手交流学习开源平台 |
+| CVHub               | 微信公众号                      |                                                          | 计算机视觉全栈知识分享，最新顶会论文分享 |
+| Coggle数据科学               | 微信公众号                      |                                                          | 专注数据科学领域竞赛分享 |
+| GithubDaily              | 微信公众号                      |                                                          | Github优质项目分享 |
+| 集智书童             | 微信公众号                      |                                                          | 科研和工业前沿知识分享 |
+| 老刘说NLP             | 微信公众号                      |                                                          | 高质量NLP与LLMs模型知识分享 |
+| ReadPaper论文阅读平台            | 微信公众号                      |                                                          | 最新顶刊顶会论文领读 |
+| 新智元            | 微信公众号/知乎                      |                                                          |  |
+| 医学图像计算青年研讨会           | 微信公众号                      |                                                          | 国内外顶尖医学图像领域学者研究学习平台 |
+| 最新医学影像技术           | 微信公众号                      |                                                          | 医学图像任务代码和数据集分享 |
 
 ### Academic Platform
 
