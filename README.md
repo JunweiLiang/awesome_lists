@@ -93,10 +93,20 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
     
     See [courses.md](./courses.md).
 
-10. Tricks and hacks that I think would be useful.
+10. Awesome Research Lists (for both TTAPs and PhD students)
 
-    + [Technical notes on making websites for personal/projects/courses](https://github.com/JunweiLiang/junweiliang.github.io/blob/master/note.md).
+    Good awesome lists for specific fields.
 
-    + [How to make home machines SSH-able from anywhere](./junwei_notes/server_ssh_anywhere.md).
+    一些特定领域的paper集合等。
 
-    + [How To Make Web-Accessible Demos For Your AI Research/Applications](./junwei_notes/web_app_tech_notes.md).
+    See [research_lists.md](./research_lists.md).
+
+11. Tricks and hacks that I think would be useful.
+
+    + 监视单独GPU机器群的利用率: [How to monitor utilization of multiple GPU nodes](./junwei_notes/note_nv_monitoring.md).
+
+    + 做网站的技术要点: [Technical notes on making websites for personal/projects/courses](https://github.com/JunweiLiang/junweiliang.github.io/blob/master/note.md).
+
+    + 使用SSH隧道: [How to make home machines SSH-able from anywhere](./junwei_notes/server_ssh_anywhere.md).
+
+    + 做Web Demo的技术要点: [How To Make Web-Accessible Demos For Your AI Research/Applications](./junwei_notes/web_app_tech_notes.md).
