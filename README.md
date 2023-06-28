@@ -1,6 +1,6 @@
 # Awesome Lists for Tenure-Track Asst. Professors and PhD students 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JunweiLiang.awesome_lists)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://vbr.wocr.tk/badge?page_id=JunweiLiang.JunweiLiang&right_color=green)
 
 ## Introduction
 
