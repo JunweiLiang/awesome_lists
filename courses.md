@@ -28,6 +28,7 @@ An important part of being a professor is teaching. Here I collect a list of fam
 |Dive into Deep Learning|Mu Li|AWS|Course page|[link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)|
 ||||Book|[link](https://zh.d2l.ai/)|
 ||||Paper|[link](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)|
+||||Note|[link](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes)|
 
 ### Technicalities
 
