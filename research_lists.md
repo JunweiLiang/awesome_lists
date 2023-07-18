@@ -6,7 +6,8 @@
 
 ## 2017-2023 CVPR/ICCV/ECCV/NeurIPS/ICLR Oral papers
 
-Link: [https://gaplab.cuhk.edu.cn/cvpapers](https://gaplab.cuhk.edu.cn/cvpapers/)
+- Link: [https://gaplab.cuhk.edu.cn/cvpapers](https://gaplab.cuhk.edu.cn/cvpapers/)
+- Link：[https://aipaper.fun/](https://aipaper.fun/)
 
 ## AMiner
 
