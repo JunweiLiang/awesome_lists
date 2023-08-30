@@ -72,6 +72,11 @@ $ ssh -J your_username@666.666.666.666 -p 21222 your_username@localhost
 $ scp -o ProxyJump=your_username@666.666.666.666 -P 21222 your_username@localhost:source_file dest_path
 ```
 
+You can also simply use the following to connect:
+```
+ssh -p 21222 your_username@666.666.666.666
+```
+
 Good references through a lot of Googling:
 
 https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work#
