@@ -1,9 +1,20 @@
 ## GPU Comparisons
 
 ### Contents
-1. Cloud GPU and whole machine price comparison and notes (云GPU与整机价格对比); [link](#price-comparison)
-2. Free compute available from companies（教授可申请的免费计算资源）; [link](#free-stuff)
-3. Useful learning material on GPUs and setting up your clusters（如何搭建计算集群）; [link](#learning-stuff)
+1. My lab's computing setup; [link](#computing-setup-of-my-lab)
+2. Cloud GPU and whole machine price comparison and notes (云GPU与整机价格对比); [link](#price-comparison)
+3. Free compute available from companies（教授可申请的免费计算资源）; [link](#free-stuff)
+4. Useful learning material on GPUs and setting up your clusters（如何搭建计算集群）; [link](#learning-stuff)
+
+## Computing Setup of My Lab
+
+In my lab, the [Precognition Lab](http://precognition.team/), using the start-up funds provided by the university, I have built 9 stand-alone machines equipped with a total of 32 RTX 3090/4090 GPUs (including 4-GPU and some 2-GPU machines). Additionally, I have established a cluster with 3 compute nodes, comprising a total of 24 RTX A6000 GPUs, and a 100TB NAS.
+
+The rationale behind this hybrid setup is twofold: the stand-alone machines cost only 40% of what the cluster does, and they can be acquired quickly without necessitating additional machine room space.
+
+As for the cluster, I've found that a 100 GB Ethernet suffices for the computing network, eliminating the need to invest in an Infiniband switch, which can cost two to three times more. With 3 nodes on this network, I can essentially achieve linear scaling with multi-node training (6 hours for 1-node training and 2 hours for 3-node training, etc.).
+
+<center><img style="width: 800px" src="./pics/my_computing.png"></img></center>
 
 ## Price Comparison
 
