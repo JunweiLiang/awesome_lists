@@ -47,7 +47,7 @@ Disclaimer: I'm primarily focusing on computer vision and resources in mainland,
 
     See [conferences.md](./conferences.md).
 
-    <center><img style="width: 500px" src="./pics/conference_timeline_cv_ai.jpg"></img></center>
+    <center><img style="width: 500px" src="./pics/conference_timeline.png"></img></center>
 
 5. Workshops and Competitions (for both TTAPs and PhD students)
 

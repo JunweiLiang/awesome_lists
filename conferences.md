@@ -13,7 +13,7 @@
 
 Currently this is for computer vision and AI in general.
 
-<img src="./pics/conference_timeline_cv_ai.jpg"></img>
+<img src="./pics/conference_timeline.png"></img>
 
 ## Workshop and Tutorial Proposal Schedule
 
